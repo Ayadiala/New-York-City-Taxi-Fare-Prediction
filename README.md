@@ -5,7 +5,7 @@
  In this playground competition, hosted in partnership with Google Cloud and Coursera, you are tasked with predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations. This notebook focuses on the Exploratory Data Analysis of the following dataset. Currently the plots are implemented with plotly and custom map styles are possible with Mapbox.
  
  LGBM Implimentation 
-![alt tag](https://kaggle2.blob.core.windows.net/competitions/kaggle/10170/logos/header.png)
+![alt tag](http://www.essential-new-york-city-guide.com/images/nyc-taxi.jpg)
 
 
 Prerequisites
